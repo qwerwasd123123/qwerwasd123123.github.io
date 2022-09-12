@@ -1,0 +1,30 @@
+{
+  "id": "3644144",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "903783",
+      "name": "对勾",
+      "font_class": "duigou",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "712103",
+      "name": "姓名",
+      "font_class": "icon-person",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "4488842",
+      "name": "学校名称",
+      "font_class": "xuexiaomingcheng",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    }
+  ]
+}
